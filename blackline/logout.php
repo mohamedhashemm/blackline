@@ -4,6 +4,8 @@ unset($_SESSION['novel1']);
 header("Location:login.php");
 exit();
 
+// add comment
+
 
 
 ?>
